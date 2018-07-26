@@ -1,6 +1,6 @@
 class HelloWorld{
 
-	main(){
+	public static void main(){
 	
 		Systemout.println("Hello World");
 
