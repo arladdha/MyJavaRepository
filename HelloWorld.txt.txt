@@ -1,0 +1,12 @@
+class HelloWorld{
+
+	main(){
+	
+		Systemout.println("Hello World");
+
+
+
+
+	}
+
+}
