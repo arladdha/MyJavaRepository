@@ -1,14 +1,14 @@
 class HelloWorld{
 
-void mymethod(){
+	void displayDate(){
 
-sysout("display todays date");
+	System.out.println("Display today's date:- ");
 
-}
+	}
 
 	public static void main(String[] args){
 	
-		Systemout.println("Hello World...Welcome to Git ");
+		System.out.println("Hello World...Welcome to Git ");
 
 
 
